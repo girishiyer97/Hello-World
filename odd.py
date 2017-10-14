@@ -1,5 +1,5 @@
 L=[]
-n=int(input("enter no."''))
+n=int(input("Enter No. of numbers:"''))
 print('Enter',n,'numbers into the list:-')
 i=0
 while i<n:
